@@ -1,0 +1,15 @@
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\bin\Debug\net8.0\Infrastructrure.deps.json
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\bin\Debug\net8.0\Infrastructrure.dll
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\bin\Debug\net8.0\Infrastructrure.pdb
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\bin\Debug\net8.0\Domain.dll
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\bin\Debug\net8.0\Domain.pdb
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.AssemblyInfo.cs
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastr.BCB38340.Up2Date
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.dll
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\refint\Infrastructrure.dll
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.pdb
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\ref\Infrastructrure.dll
