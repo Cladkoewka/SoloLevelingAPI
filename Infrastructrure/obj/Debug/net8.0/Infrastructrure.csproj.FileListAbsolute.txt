@@ -13,3 +13,4 @@ C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\refint\Infrastructrure.dll
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.pdb
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\ref\Infrastructrure.dll
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Infrastructrure\obj\Debug\net8.0\Infrastructrure.sourcelink.json

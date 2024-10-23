@@ -9,3 +9,4 @@ C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Domain\obj\Debug\net8.0\Domain.d
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Domain\obj\Debug\net8.0\Domain.pdb
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\Domain\obj\Debug\net8.0\Domain.sourcelink.json

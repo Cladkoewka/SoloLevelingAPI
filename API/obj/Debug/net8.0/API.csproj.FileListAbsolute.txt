@@ -107,3 +107,4 @@ C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\API\obj\Debug\net8.0\refint\API.
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\API\obj\Debug\net8.0\API.pdb
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\API\obj\Debug\net8.0\ref\API.dll
+C:\ITProjects\.Net\!PetProjects\SoloLevelingApi\API\obj\Debug\net8.0\API.sourcelink.json
